@@ -10,6 +10,7 @@ mip-xzw-swiper 星座屋mip滑动组件
 ## 示例
 
 ### 基本使用
+```html 
 组件使用的层级关系如示例，组件必须包含属性为~swiper-container,swiper-wrapper,swiper-slide;如果一个页面需要引用2个滑动块以上则需要添加自定义class类名~如示例所示的female,male并以此类名调用函数;
 
 <mip-xzw-swiper class="swiper-container female">
